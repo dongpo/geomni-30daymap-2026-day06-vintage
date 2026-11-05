@@ -1,0 +1,212 @@
+[
+  {
+    "type": 1,
+    "count": 1692,
+    "tags": {
+      "landuse": [
+        "residential"
+      ],
+      "natural": [],
+      "waterway": []
+    },
+    "label": "背景",
+    "color": "#e8dec7",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "background",
+    "types": [
+      1,
+      22,
+      23
+    ]
+  },
+  {
+    "type": 2,
+    "count": 161,
+    "tags": {
+      "landuse": [],
+      "natural": [],
+      "waterway": []
+    },
+    "label": "海域",
+    "color": "#9fb9b6",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "sea",
+    "types": [
+      2
+    ]
+  },
+  {
+    "type": 3,
+    "count": 1989,
+    "tags": {
+      "landuse": [
+        "farm"
+      ],
+      "natural": [],
+      "waterway": []
+    },
+    "label": "田地",
+    "color": "#e4d2a9",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "3",
+    "types": [
+      3
+    ]
+  },
+  {
+    "type": 9,
+    "count": 131,
+    "tags": {
+      "landuse": [],
+      "natural": [
+        "grassland"
+      ],
+      "waterway": []
+    },
+    "label": "草地",
+    "color": "#d1d3b3",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "9",
+    "types": [
+      9
+    ]
+  },
+  {
+    "type": 11,
+    "count": 260,
+    "tags": {
+      "landuse": [],
+      "natural": [
+        "wood"
+      ],
+      "waterway": []
+    },
+    "label": "樹林",
+    "color": "#b4bda1",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "11",
+    "types": [
+      11
+    ]
+  },
+  {
+    "type": 14,
+    "count": 323,
+    "tags": {
+      "landuse": [
+        "forest"
+      ],
+      "natural": [],
+      "waterway": []
+    },
+    "label": "竹林",
+    "color": "#9cae92",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "14",
+    "types": [
+      14
+    ]
+  },
+  {
+    "type": 16,
+    "count": 1145,
+    "tags": {
+      "landuse": [],
+      "natural": [
+        "heath"
+      ],
+      "waterway": []
+    },
+    "label": "荒地",
+    "color": "#d9cfb4",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "16",
+    "types": [
+      16
+    ]
+  },
+  {
+    "type": 19,
+    "count": 2113,
+    "tags": {
+      "landuse": [
+        "residential"
+      ],
+      "natural": [],
+      "waterway": []
+    },
+    "label": "居住地",
+    "color": "#b28c72",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "19",
+    "types": [
+      19
+    ]
+  },
+  {
+    "type": 20,
+    "count": 878,
+    "tags": {
+      "landuse": [
+        "cemetery"
+      ],
+      "natural": [],
+      "waterway": []
+    },
+    "label": "墓地",
+    "color": "#c3b9a6",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "20",
+    "types": [
+      20
+    ]
+  },
+  {
+    "type": 21,
+    "count": 197,
+    "tags": {
+      "landuse": [],
+      "natural": [],
+      "waterway": [
+        "river"
+      ]
+    },
+    "label": "河川",
+    "color": "#9fb9b6",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "21",
+    "types": [
+      21
+    ]
+  },
+  {
+    "type": 25,
+    "count": 51,
+    "tags": {
+      "landuse": [],
+      "natural": [
+        "beach"
+      ],
+      "waterway": []
+    },
+    "label": "沙灘",
+    "color": "#e6d4ac",
+    "render": true,
+    "evidence": "merge.dbf tags; display groups and sea interpretation per latest user clarification; unreviewed TYPEunreviewed 999 excluded; Anping harbor reviewed as sea; Anping harbor corrected separately",
+    "id": "beach",
+    "types": [
+      25,
+      26
+    ]
+  }
+]

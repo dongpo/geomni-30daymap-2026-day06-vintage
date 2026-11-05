@@ -1,0 +1,20 @@
+{
+  "MapLibre-LICENSE.txt": {
+    "sha256": "ee5fc05a0677eaf69601d2c7db0d9ecd6cc27c3abc1d0733bc9ed34707cf8ef2"
+  },
+  "PMTiles-LICENSE.txt": {
+    "sha256": "0371c38f338835f7fc13ed71176f3d92144e22c8b736a31cced57adbbeb647b3"
+  },
+  "maplibre-gl-worker.mjs": {
+    "sha256": "0bf06492bdb7ba3d4132b78e435621bfba60d5250967991c02b1a73affea8cd5"
+  },
+  "maplibre-gl.css": {
+    "sha256": "a90798a1953017790e590f7e1bd35ff103a8a4263972cb47290b78adf86f8c20"
+  },
+  "maplibre-gl.mjs": {
+    "sha256": "fbbdf8ddd9a48e49059a4be6795a4f214a711314bb5809f72d3730b48e7897e3"
+  },
+  "pmtiles.js": {
+    "sha256": "367c19f8936d1d6c1b1820b0dee053f793fc29277655c3e471f5ed4d37b5f045"
+  }
+}
