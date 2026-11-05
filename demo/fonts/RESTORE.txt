@@ -1,0 +1,3 @@
+I.Ming 8.10 is redistributed without modification. Source: https://github.com/ichitenfont/I.Ming/tree/master/8.10
+Original IPA font: https://moji.or.jp/ipafont/ipafontdownload/
+To restore the original font, install IPAmjMincho; CSS prefers this local font. Alternatively replace the @font-face source in demo/screen.css with the original font path and run scripts/package_standalone.py.

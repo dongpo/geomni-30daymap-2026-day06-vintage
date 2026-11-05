@@ -6,7 +6,7 @@
 
 這次以作者保存的臺灣堡圖資料，重繪日治時期台南的土地利用、聚落、道路與地名。技術上，先用 GeoPandas／Shapely 整理 Shapefile 的中文編碼、分類與幾何，再透過 Tippecanoe 轉成 PMTiles 向量圖磚，以 MapLibre GL JS 製作可搜尋地名、切換圖層的互動地圖。
 
-樣式受原始堡圖設計啟發，參照原圖符號簡化重繪；搭配暖紙色、藍綠水域、暖褐聚落、細緻紙紋與鉛筆感紋樣，讓古典視覺與互動閱讀並存。居住地與背景分色，土地不加邊線，讓道路與歷史地名更清楚。
+樣式受原始堡圖設計啟發，參照原圖符號簡化重繪；搭配暖紙色、藍綠水域、暖褐聚落、一點明體、細緻紙紋與鉛筆感紋樣，讓古典視覺與互動閱讀並存。居住地與背景分色，土地不加邊線，讓道路與歷史地名更清楚。
 
 製圖也需要判讀：安平內港在保存資料中被列為未知分類，對照地名與空間位置後，補回應有的水色，並留下校正紀錄。
 
@@ -22,7 +22,7 @@ A vintage map takes more than a parchment-colored background.
 
 Using a dataset preserved by the author, this map revisits land use, settlements, roads, and place names recorded in the Taiwan Fort Map during the Japanese colonial period. The workflow combines GeoPandas and Shapely for Shapefile encoding, classification, and geometry cleanup; Tippecanoe for PMTiles vector tiles; and MapLibre GL JS for interactive layers and historical place-name search.
 
-The visual design draws on symbols from the original Fort Map, simplified and redrawn with warm paper tones, muted blue-green water, brown settlements, subtle paper grain, and pencil-like patterns. Distinct settlement and background colors, together with fills without land-use outlines, keep roads and historical names legible.
+The visual design draws on symbols from the original Fort Map, simplified and redrawn with warm paper tones, muted blue-green water, brown settlements, I.Ming typography, subtle paper grain, and pencil-like patterns. Distinct settlement and background colors, together with fills without land-use outlines, keep roads and historical names legible.
 
 Interpretation matters, too: a polygon covering Anping’s inner harbor was classified as unknown in the preserved dataset. Reading it alongside historical place names and its spatial context helped restore its water classification, with the correction documented separately.
 

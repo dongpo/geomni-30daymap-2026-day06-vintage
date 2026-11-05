@@ -6,9 +6,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 from matplotlib.patches import Rectangle
 R=Path(__file__).resolve().parents[1]
-from fontTools.ttLib import TTCollection
-fpath=Path('/private/tmp/bomap-songti-tc.ttf')
-TTCollection('/System/Library/Fonts/Supplemental/Songti.ttc').fonts[7].save(fpath)
+fpath=R/'demo/fonts/I.Ming-8.10.ttf'
 font=FontProperties(fname=str(fpath))
 plt.rcParams['svg.fonttype']='none';plt.rcParams['font.family']=font.get_name();plt.rcParams['hatch.linewidth']=0.25
 colors={'farm':'#e4d2a9','residential':'#e8dec7','forest':'#9cae92','wood':'#b4bda1','heath':'#d9cfb4','cemetery':'#c3b9a6','grassland':'#d1d3b3','beach':'#e6d4ac','river':'#9fb9b6','sea':'#9fb9b6'}
